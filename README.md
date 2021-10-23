@@ -4,9 +4,9 @@ Image detection and image segmentation files in DDR dataset.
 
 The original DDR dataset：https://github.com/nkicsl/DDR-dataset/blob/master/README.md#oia-ddr  
 
-The original DDR dataset is a 14GB zip package, of which 13.2GB is a DR grading file. However, if you only need image segmentation and image detection files, you have to download additional DR grading files, so upload the image segmentation and image detection files in the DDR dataset separately.  
+The original DDR dataset is a 14GB zip package, of which 13.2GB is a DR grading file. However, if you only need image segmentation and image detection files, you have to download additional DR grading files, so I upload the image segmentation and image detection files in the DDR dataset separately.  
 
-If you make use of the DDR dataset, please cite our following paper:
+If you make use of the DDR dataset, please cite the following paper:
 
     @article{LI2019,
       title = "Diagnostic Assessment of Deep Learning Algorithms for Diabetic Retinopathy Screening",
